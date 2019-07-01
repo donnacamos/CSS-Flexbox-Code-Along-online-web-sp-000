@@ -17,6 +17,11 @@ main {
   
 }
 
+.flex-container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
 
 footer {
   background-color: #DAEEEF;
